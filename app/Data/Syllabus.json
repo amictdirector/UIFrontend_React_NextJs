@@ -1,0 +1,60 @@
+[
+    {
+        "course": "B.Sc Fasion Design",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/B_Sc_F_D.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/B_Sc_F_D.pdf",
+        "showChip": true
+    },{
+        "course": "Hotel Management",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/BHMCT.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/BHMCT.pdf",
+        "showChip": false
+    },{
+        "course": "B.Sc MLS",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/BSC_MLS.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/BSC_MLS.pdf",
+        "showChip": true
+    },{
+        "course": "B.Sc IT",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/BScIT.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/BScIT.pdf",
+        "showChip": true
+    },{
+        "course": "M.Sc IT",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/M_Sc_IT.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/M_Sc_IT.pdf",
+        "showChip": true
+    },{
+        "course": "MCA",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/MCA.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/MCA.pdf",
+        "showChip": true
+    },{
+        "course": "M.Sc MLS (Biochemistry)",
+        "updateOn": "2025-06-29",
+        "filePath": "/files/Syllabus/MSC_MLS_Biochemistry.pdf",
+        "enableView": true,
+        "download": true,
+        "downloadLinK": "/files/Syllabus/MSC_MLS_Biochemistry.pdf",
+        "showChip": true
+    }
+]
+  

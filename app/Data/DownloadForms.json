@@ -1,0 +1,30 @@
+{
+    "file_1":{
+        "primaryName":"Fee Structure",
+        "secondaryName":"Updated: 2025",
+        "downloadable":true,
+        "link":"/files/FeeStructure2025.pdf",
+        "isNew":true
+    },
+    "file_2":{
+        "primaryName":"Faculty Memebers",
+        "secondaryName":"Updated: 2025",
+        "downloadable":true,
+        "link":"/files/FacultyList.pdf",
+        "isNew":false
+    },
+    "file_3":{
+        "primaryName":"Eligibility Criteria",
+        "secondaryName":"UGC (Non-AICTE)",
+        "downloadable":true,
+        "link":"/files/EligibilityCriteriaSession2024-25.pdf",
+        "isNew":true
+    },
+    "file_4":{
+        "primaryName":"Admission Form",
+        "secondaryName":"Updated: 2025",
+        "downloadable":true,
+        "link":"/files/AdmissionForm2025.pdf",
+        "isNew":true
+    }
+}

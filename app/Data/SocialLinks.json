@@ -1,0 +1,33 @@
+[
+    {
+        "socialLinkName":"whatsApp",
+        "enabled":true,
+        "link":"",
+        "icon":"WhatsAppIcon"
+    },{
+        "socialLinkName":"facebook",
+        "enabled":true,
+        "link":"",
+        "icon":"FacebookIcon"
+    },{
+        "socialLinkName":"insta",
+        "enabled":true,
+        "link":"",
+        "icon":"InstaIcon"
+    },{
+        "socialLinkName":"twitter",
+        "enabled":true,
+        "link":"",
+        "icon":"TwitterIcon"
+    },{
+        "socialLinkName":"youTube",
+        "enabled":true,
+        "link":"",
+        "icon":"YouTubeIcon"
+    },{
+        "socialLinkName":"linkedIn",
+        "enabled":true,
+        "link":"",
+        "icon":"LinkedInIcon"
+    }
+]

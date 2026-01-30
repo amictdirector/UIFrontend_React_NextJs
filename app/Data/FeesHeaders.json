@@ -1,0 +1,83 @@
+[
+    {   
+        "field": "sno", 
+        "headerName": "S.no.", 
+        "width": 90 
+    },
+    {
+        "field": "course",
+        "headerName": "Course",
+        "width": 150,
+        "editable": false
+    },
+    {
+        "field": "duration",
+        "headerName": "Duration",
+        "width": 150,
+        "editable": false
+    },
+    {
+        "field": "prospectus_a",
+        "headerName": "Prospectus (Only at Admission Time) (A)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "admissionProcess_b",
+        "headerName": "Admission Processing Fees (B)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "total_a_b",
+        "headerName": "Total (Only at Admission Time) (C=A+B)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "tutition_fee_per_Sem",
+        "headerName": "Tutition Fees (Per Semester)(D)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "total_c_d",
+        "headerName": "Grand Total (General Category) (E=C+D)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "special_discount_g",
+        "headerName": "Special Discount for Meritorious Students (G) 81% and above (G=D*20%)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "parentLess",
+        "headerName": "Parentless (H=D*10%)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "fatherless",
+        "headerName": "Fatherless (I=D*10%)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    },
+    {
+        "field": "sibling",
+        "headerName": "Sibling (J=D*10%)",
+        "type": "number",
+        "width": 500,
+        "editable": false
+    }
+
+]

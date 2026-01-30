@@ -1,0 +1,23 @@
+[
+    {
+        "imageIndex": 0,
+        "imagePath": "/anm/BANNER-2.jpeg",
+        "imageBgColor": "red"
+    },
+    {
+        "imageIndex": 1,
+        "imagePath": "/anm/BANNER-3.jpeg",
+        "imageBgColor": "red"
+    },
+    {
+        "imageIndex": 2,
+        "imagePath": "/anm/BANNER-4.jpeg",
+        "imageBgColor": "red"
+    },
+    {
+        "imageIndex": 3,
+        "imagePath": "/anm/BANNER-5.jpeg",
+        "imageBgColor": "red"
+    }
+    
+]

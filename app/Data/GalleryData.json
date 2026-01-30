@@ -1,0 +1,69 @@
+{
+    "DOUBLE_CELEBRATION": {
+        "CAPTION": "🎉 Double Celebration at A&M Institute of Computer and Technology, Pathankot 🎉",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/DOUBLE_CELEBRATION/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/DOUBLE_CELEBRATION/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/DOUBLE_CELEBRATION/3.jpg" },
+            { "imageIndex": 3, "imagePath": "/anm/Gallery/DOUBLE_CELEBRATION/4.jpg" },
+            { "imageIndex": 4, "imagePath": "/anm/Gallery/DOUBLE_CELEBRATION/5.jpg" }
+        ]
+    },
+    "HAWAAN": {
+        "CAPTION": "🕉️ Hawaan Ceremony at A&M Institute of Computer and Technology 🕉️",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/HAWAAN/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/HAWAAN/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/HAWAAN/3.jpg" }
+        ]
+    },
+    "NCC": {
+        "CAPTION": "🎖️ NCC Activities at A&M Institute of Computer and Technology 🎖️",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/NCC/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/NCC/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/NCC/3.jpg" }
+        ]
+    },
+    "ORIENTATION": {
+        "CAPTION": "📚 Orientation Program at A&M Institute of Computer and Technology 📚",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/ORIENTATION/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/ORIENTATION/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/ORIENTATION/3.jpg" },
+            { "imageIndex": 3, "imagePath": "/anm/Gallery/ORIENTATION/4.jpg" }
+        ]
+    },
+    "PLACEMENT": {
+        "CAPTION": "🎯 Placement Drives at A&M Institute of Computer and Technology 🎯",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/PLACEMENT/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/PLACEMENT/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/PLACEMENT/3.jpg" },
+            { "imageIndex": 3, "imagePath": "/anm/Gallery/PLACEMENT/4.jpg" }
+        ]
+    },
+    "SEMINAR": {
+        "CAPTION": "🧠 Seminar Sessions at A&M Institute of Computer and Technology 🧠",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/SEMINAR/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/SEMINAR/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/SEMINAR/3.jpg" },
+            { "imageIndex": 3, "imagePath": "/anm/Gallery/SEMINAR/4.jpg" },
+            { "imageIndex": 4, "imagePath": "/anm/Gallery/SEMINAR/5.jpg" },
+            { "imageIndex": 5, "imagePath": "/anm/Gallery/SEMINAR/6.jpg" }
+        ]
+    },
+    "TEEJ": {
+        "CAPTION": "🌸 Teej Festival Celebrations at A&M Institute of Computer and Technology 🌸",
+        "IMAGES": [
+            { "imageIndex": 0, "imagePath": "/anm/Gallery/TEEJ/1.jpg" },
+            { "imageIndex": 1, "imagePath": "/anm/Gallery/TEEJ/2.jpg" },
+            { "imageIndex": 2, "imagePath": "/anm/Gallery/TEEJ/3.jpg" },
+            { "imageIndex": 3, "imagePath": "/anm/Gallery/TEEJ/4.jpg" },
+            { "imageIndex": 4, "imagePath": "/anm/Gallery/TEEJ/5.jpg" },
+            { "imageIndex": 5, "imagePath": "/anm/Gallery/TEEJ/6.jpg" },
+            { "imageIndex": 6, "imagePath": "/anm/Gallery/TEEJ/7.jpg" }
+        ]
+    }
+}

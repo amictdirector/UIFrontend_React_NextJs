@@ -1,0 +1,81 @@
+{
+    "POST_GRADUATION": [
+        {
+            "courseName": "MCA",
+            "courseField": "COMPUTER",
+            "details": "Masters in Computer Application.",
+            "duration": "2",
+            "durationUnit": "yrs",
+            "stars": 5,
+            "seats": 60
+        },
+        {
+            "courseName": "M.Sc-IT",
+            "courseField": "COMPUTER",
+            "details": "Masters Science (Informatin Technology).",
+            "duration": "2",
+            "durationUnit": "yrs",
+            "stars": 5,
+            "seats": 60
+        },
+        {
+            "courseName": "M.Sc-IT (Lateral Entry)",
+            "courseField": "COMPUTER",
+            "details": "Masters Science (Informatin Technology).",
+            "duration": "1",
+            "durationUnit": "yrs",
+            "stars": 5,
+            "seats": 10
+        }
+        
+    ],
+    "GRADUATION":[
+        {
+            "courseName": "B.Sc-IT",
+            "courseField": "COMPUTER",
+            "details": "Bachelore of Science (Informatin Technology).",
+            "duration": "1",
+            "durationUnit": "yrs",
+            "stars": 3,
+            "seats": 60
+        },
+        {
+            "courseName": "B.Sc-IT (Lateral Entry)",
+            "courseField": "COMPUTER",
+            "details": "Bachelore of Science (Informatin Technology).",
+            "duration": "1",
+            "durationUnit": "yrs",
+            "stars": 2,
+            "seats": 10
+        },
+        {
+            "courseName": "B.Sc-MLT",
+            "courseField": "COMPUTER",
+            "details": "Bachelore of Science (Informatin Technology).",
+            "duration": "4",
+            "durationUnit": "yrs",
+            "stars": 2,
+            "seats": 90
+        },
+        {
+            "courseName": "B.Sc-(FT))",
+            "courseField": "FT",
+            "details": "Bachelore of Science (Informatin Technology).",
+            "duration": "3",
+            "durationUnit": "yrs",
+            "stars": 3,
+            "seats": 60
+        },
+         {
+            "courseName": "B.Sc-(FT)-(Lateral Entry)",
+            "courseField": "COMPUTER",
+            "details": "Bachelore of Science (Informatin Technology).",
+            "duration": "1",
+            "durationUnit": "yrs",
+            "stars": 2,
+            "seats": 10
+        }
+
+    ]
+    
+}

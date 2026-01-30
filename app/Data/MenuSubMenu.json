@@ -1,0 +1,40 @@
+{
+    "Home": "Home",
+    "About Us": "About Us",
+    "Messages": {
+        "Chairman": "Chairman",
+        "Vice Chairman": "Vice Chairman",
+        "General Secretary":"General Secretary",
+        "Director": "Director"
+    },
+    "Academics": {
+        "Achievements": "Achievements",
+        "Courses": "Courses",
+        "Career": "Career",
+        "Results": "Results",
+        "Naac": {
+            "Naac Login": "https://assessmentonline.naac.gov.in/public/index.php/hei",
+            "Criterion List Of SSR": "Criterion List Of SSR",
+            "MINUTES OF IQAC": "MINUTES OF IQAC",
+            "Certificate of Sports": "Certificate of Sports"
+        }
+    },
+    "Admission": {
+        "Add On Courses": "Add On Courses",
+        "Eligibility": "Eligibility",
+        "Application Procedure": "Application Procedure",
+        "Fees": "Fees",
+        "Syllabus": "https://amritsar.ptu.ac.in/syllabus"
+    },
+    "Faculty": "Faculty",
+    "Gallery": "Gallery",
+    "Important Links": {
+        "RTI 2005 (SEC - 4)": "RTI 2005 (SEC - 4)",
+        "Scholarship Scheme": "Scholarship Scheme",
+        "Grievance Form": "Grievance Form",
+        "SSR Report": "SSR Report"
+    },
+    "Contact Us": "Contact Us",
+    "Enquiry" : "Enquiry"
+    
+}

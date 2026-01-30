@@ -1,0 +1,124 @@
+[
+    {
+      "courseName": "MCA",
+      "courseField": "COMPUTER",
+      "courseGrade": "POST GRADUATION",
+      "details": "Master's degree in computer applications. \nCovers software development and systems management.",
+      "duration": "2",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 60,
+      "imageURL": "/courses/course-1.jpg"
+    },
+    {
+      "courseName": "M.Sc-IT",
+      "courseField": "COMPUTER",
+      "courseGrade": "POST GRADUATION",
+      "details": "Master of Science in IT. \nEmphasizes IT infrastructure, programming, and data management.",
+      "duration": "2",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 60,
+      "imageURL": "/courses/course-2.jpg"
+    },
+    {
+      "courseName": "M.Sc-IT (Lateral Entry)",
+      "courseField": "COMPUTER",
+      "courseGrade": "POST GRADUATION",
+      "details": "Accelerated Master's for lateral entrants. \nFocus on advanced IT topics and applications.",
+      "duration": "1",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 10,
+      "imageURL": "/courses/course-3.jpg"
+    },
+    {
+      "courseName": "B.Sc-IT",
+      "courseField": "COMPUTER",
+      "courseGrade": "GRADUATION",
+      "details": "Bachelor of Science in Information Technology. \nCovers fundamentals of computing and programming.",
+      "duration": "3",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 60,
+      "imageURL": "/courses/course-4.jpg"
+    },
+    {
+      "courseName": "B.Sc-IT (Lateral Entry)",
+      "courseField": "COMPUTER",
+      "courseGrade": "GRADUATION",
+      "details": "Lateral entry program into B.Sc-IT. \nShortened curriculum with focus on core IT skills.",
+      "duration": "2",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 10,
+      "imageURL": "/courses/course-5.jpg"
+    },
+    {
+      "courseName": "B.Sc-MLT",
+      "courseField": "COMPUTER",
+      "courseGrade": "GRADUATION",
+      "details": "Bachelor of Science in Medical Laboratory Technology. \nFocus on clinical diagnostics and lab techniques.",
+      "duration": "4",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 90,
+      "imageURL": "/courses/MLT.webp"
+    },
+    {
+      "courseName": "B.Sc-MLT (Lateral Entry)",
+      "courseField": "COMPUTER",
+      "courseGrade": "GRADUATION",
+      "details": "Lateral entry into B.Sc-MLT program. \nIntensive coursework on medical lab technologies.",
+      "duration": "3",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 10,
+      "imageURL": "/courses/course-6.jpg"
+    },
+    {
+      "courseName": "B.Sc-(FT)",
+      "courseField": "FT",
+      "courseGrade": "GRADUATION",
+      "details": "Bachelor of Science in Food Technology. \nStudies food processing, safety, and preservation.",
+      "duration": "3",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 60,
+      "imageURL": "/courses/course-10.jpg"
+    },
+    {
+      "courseName": "B.Sc-(FT)-(Lateral Entry)",
+      "courseField": "COMPUTER",
+      "courseGrade": "GRADUATION",
+      "details": "Lateral entry into Food Technology degree. \nCondensed program with emphasis on food science.",
+      "duration": "2",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 10,
+      "imageURL": "/courses/course-8.jpg"
+    },
+    {
+      "courseName": "BHMCT",
+      "courseField": "MANAGMENT",
+      "courseGrade": "GRADUATION",
+      "details": "Bachelor in Hotel Management and Catering Technology. \nPrepares students for hospitality industry roles.",
+      "duration": "4",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 60,
+      "imageURL": "/courses/OIP.webp"
+    },
+    {
+      "courseName": "B.Sc Non Medical",
+      "courseField": "SCIENCE",
+      "courseGrade": "GRADUATION",
+      "details": "Bachelor of Science in Non-Medical streams. \nFocuses on Physics, Chemistry, and Mathematics.",
+      "duration": "3",
+      "durationUnit": "yrs",
+      "stars": 5,
+      "seats": 30,
+      "imageURL": "/courses/group-photo.jpeg"
+    }
+  ]
+  

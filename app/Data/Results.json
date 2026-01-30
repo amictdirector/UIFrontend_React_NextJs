@@ -1,0 +1,76 @@
+[
+    {
+      "course": "B.Sc_IT_6th",
+      "department": "Computer Department",
+      "name": "Urmila",
+      "rank": "1st",
+      "cgpa": 9.4,
+      "photoLink":"/anm/Urmila.jpg"
+    },
+    {
+      "course": "B.Sc_IT_6th",
+      "department": "Computer Department",
+      "name": "Sonam",
+      "rank": "2nd",
+      "cgpa": 8.89,
+      "photoLink":"/anm/Sonam.jpg"
+
+    },
+    {
+      "course": "B.Sc_IT_6th",
+      "department": "Computer Department",
+      "name": "Vivek",
+      "rank": "3rd",
+      "cgpa": 8.63,
+    "photoLink":"/anm/Vivek.jpg"
+    },
+    {
+      "course": "B.Sc_MLS-6th",
+      "department": "MLS Department",
+      "name": "Prity Gupta",
+      "rank": "1st",
+      "cgpa": 9.0,
+      "photoLink":"/anm/Prity.jpg"
+    },
+    {
+      "course": "B.Sc_MLS-6th",
+      "department": "MLS Department",
+      "name": "Bharti Devi",
+      "rank": "1st",
+      "cgpa": 9.0,
+      "photoLink":"/anm/Bharti.jpg"
+    },
+    {
+      "course": "B.Sc_MLS-6th",
+      "department": "MLS Department",
+      "name": "Muskan",
+      "rank": "2nd",
+      "cgpa": 8.68,
+      "photoLink":"/anm/Muskan.png"
+    },
+    {
+      "course": "B.Sc-FD-6th",
+      "department": "Fashion Designing",
+      "name": "Manisha",
+      "rank": "1st",
+      "cgpa": 9.58,
+      "photoLink":"/anm/Manisha.jpg"
+    },
+    {
+      "course": "B.Sc-FD-6th",
+      "department": "Fashion Designing",
+      "name": "Meena",
+      "rank": "2nd",
+      "cgpa": 9.50,
+      "photoLink":"/anm/Meena.jpg"
+    },
+    {
+      "course": "B.Sc-FD-6th",
+      "department": "Fashion Designing",
+      "name": "Nitika",
+      "rank": "3rd",
+      "cgpa": 9.30,
+      "photoLink":"/anm/Nitika.jpg"
+    }
+  ]
+  

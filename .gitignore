@@ -1,0 +1,70 @@
+# Node.js
+node_modules/
+.env
+.next/
+out/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Build output
+build/
+
+# Misc
+*.local
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Images cache
+*.png.cache
+*.jpg.cache
+*.jpeg.cache
+*.svg.cache
+
+# Next.js
+.next/
+
+# Production
+build/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Test coverage
+coverage/
+
+# SASS cache
+.sass-cache/
+
+# Mac system files
+Icon?
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

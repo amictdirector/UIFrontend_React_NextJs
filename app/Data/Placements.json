@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Muskaan",
+      "company": "Paytm",
+      "department": "Computer Department",
+      "photoLink":"/anm/placementMuskaan.jpg"
+    },{
+      "name": "Kalipdeep Singh",
+      "company": "ENCLAM Hospitality Pvt. Ltd.",
+      "department": "Hotel Manangment",
+      "photoLink":"/anm/placementKalipdeep.jpg"
+    },
+    {
+      "name": "Rajat Sharma",
+      "company": "DLF New Delhi",
+      "department": "MBA",
+      "photoLink":"/anm/placementRajat.jpg"
+    },{
+      "name": "Keshav Madgotra  ",
+      "company": "Hilton at London",
+      "department": "Hotel Manangment",
+      "photoLink":"/anm/placementKeshav.jpg"
+    },{
+      "name": "Meena",
+      "company": "Lidhiana Industries",
+      "department": "Computer Department",
+      "photoLink":"/anm/Meena.jpg"
+    }
+  ]
+  
